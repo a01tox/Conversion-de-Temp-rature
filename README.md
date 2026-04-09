@@ -1,7 +1,6 @@
 ##  Exercice de Conversion Celsius-Fahrenheit En Python 
 
-Exemple de structure de programme
-
+> Exemple de structure de programme
 === Menu de Conversion de Température ===
 1. Convertir Celsius en Fahrenheit
 2. Convertir Fahrenheit en Celsius
