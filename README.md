@@ -7,7 +7,9 @@
 2. Convertir Fahrenheit en Celsius
 3. Quitter
 Entrez votre choix (1/2/3) : 1
+
 Entrez la température en Celsius : 25
+
 25°C est égal à 77.00°F
 
 
