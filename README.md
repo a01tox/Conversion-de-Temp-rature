@@ -18,7 +18,9 @@ Entrez la température en Celsius : 25
 2. Convertir Fahrenheit en Celsius
 3. Quitter
 Entrez votre choix (1/2/3) : 2
+
 Entrez la température en Fahrenheit : 68
+
 68°F est égal à 20.00°C
 
 
@@ -27,4 +29,5 @@ Entrez la température en Fahrenheit : 68
 2. Convertir Fahrenheit en Celsius
 3. Quitter
 Entrez votre choix (1/2/3) : 3
+
 Merci d'avoir utilisé le programme. Au revoir!
